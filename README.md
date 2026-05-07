@@ -1,7 +1,7 @@
 # discord-selfbot-openshock
 
 
-discord selfbot for shocking puppies Easy to do easy to set up i'm not telling you how to do it but go figure
+discord selfbot for shocking puppies easy to do easy to set up i'm not telling you how to do it but go figure
 
 
 
