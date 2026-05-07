@@ -1,0 +1,9 @@
+{
+  "OpenShockToken": "",
+  "shock": {
+    "id": "",
+    "intensity": 10,
+    "duration": 500,
+    "customName": "openshock my beloved"
+  }
+}
